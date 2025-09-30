@@ -1,6 +1,6 @@
 [submodule "2048"]
 	path = 2048
-	url = git@github.com:AdamZed/2048.git
+    url = git@github.com:AdamZed/2048.git
 [submodule "lgng-src"]
-	path = lgng
-	url = git@github.com:AdamZed/lgng.git
+    url = git@github.com:AdamZed/lgng.git
+    active = true
