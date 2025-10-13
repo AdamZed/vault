@@ -4,3 +4,6 @@
 [submodule "lgng-src"]
 	path = lgng-src
 	url = git@github.com:AdamZed/lgng.git
+[submodule "feathers"]
+	path = feathers
+	url = git@github.com:AdamZed/feathers.git
