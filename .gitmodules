@@ -7,3 +7,6 @@
 [submodule "feathers"]
 	path = feathers
 	url = git@github.com:AdamZed/feathers.git
+[submodule "cyks"]
+	path = cyks
+	url = git@github.com:AdamZed/cyks.git
